@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import {Link} from "react-router-dom";
-import Config from '../config';
+import Config from '../api';
 import axios from "axios";
 import Spinner from './Spinner';
 
